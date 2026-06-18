@@ -1,0 +1,21 @@
+{
+  "series": {
+    "title": "THE CURRENT OF VAC",
+    "subtitle": "Fractured Cynicism",
+    "tagline": "A cosmic horror fantasy romance",
+    "badge": "Novel",
+    "synopsis": "A cosmic horror fantasy romance",
+    "accentColor": "#C8832A",
+    "accentDim": "#7A4E18"
+  },
+  "books": [
+    {
+      "id": 1,
+      "slug": "THE CURRENT OF VAC",
+      "title": "THE CURRENT OF VAC",
+      "subtitle": "Novel",
+      "file": "books/THE CURRENT OF VAC.txt",
+      "setting": "Present day"
+    }
+  ]
+}
